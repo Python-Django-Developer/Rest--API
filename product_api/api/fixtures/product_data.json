@@ -1,0 +1,24 @@
+[
+  {
+    "model": "api.Product",
+    "pk": 1,
+    "fields": {
+      "name": "HP Pavilion 17.3",
+      "category": "Electronic",
+      "price": 31000,
+      "description": "HP Pavilion 17.3\" FHD IPS Laptop Newest 2022,11th Gen Intel Core i5-1135G7(up to 4.2 GHz), 16GB DDR4 RAM, 1TB PCIe SSD, Wi-Fi 5,Bluetooth, Windows 11, Silver, w/ 3in1 Accessories",
+      "stars": 4
+              }
+  },
+  {
+    "model": "api.Product",
+    "pk": 1,
+    "fields": {
+      "name": "Lenovo - 2022 - IdeaPad 3i",
+      "category": "Electronic",
+      "price": 32000,
+      "description": "Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer - Intel Core i5-15.6\" FHD Display - 8GB Memory - 512GB Storage - Windows 11 Pro",
+      "stars": 4
+              }
+  }
+]
